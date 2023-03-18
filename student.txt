@@ -1,7 +1,6 @@
-Somnath
-pratik 
-bhushan
-sagar
-sachin
+somnath
+bhushan 
 dipak
-first commit from main branch
+Pratik
+sachin
+sagar
